@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+}
+
+/* WRAPPER ------------------------ */
+#wrapper {
+	background-color: #dddddd;
+	width: 970px;
+	margin: 0px auto;
+	border: 1px solid #006699;
+	border-top: none;
+}
+
+/* HEADER ------------------------- */
+#header {
+	background-color: #dddddd;
+	height: 100%;
+	text-align: center;
+	padding: 10px 0px;
+}
+	#header h1, #header h1 span {
+		font-size: 42px;
+		color: #006699;
+	}
+
+/* CONTENT ROW------------------- */
+.content_row {
+	background-color: #ffffff;
+	padding: 20px 0px 0px 45px;
+	height: 220px;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+	border: none;
+}
+
+button {
+	height:30px;
+	width: 100px;
+	margin: 20px 10px 20px 45px;
+	padding: 0px 5px;
+	font-size: 16px;
+	color: #006699;
+	font-weight: bold;
+}
